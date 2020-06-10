@@ -1,7 +1,8 @@
 # MITM
 This script is for making the local machine a "Man-In-The-Middle".
 
-Will work for Windows type OS environment
+Will work for Windows type OS LAN environment. The access by the local machine to each node is done whithout a password. If the access
+require a password the script should be recoded to use the password in the PSEXEC command in the script.
 
 The script uses a CLI menu to interact with the user to get information about the local network.
 After the user has given all the information needed the script will do the followings things:
