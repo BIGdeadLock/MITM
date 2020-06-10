@@ -16,4 +16,7 @@ Also, the script has a rollback option.
 The rollback option will roll back the previous original DG for each host that was affected by the change.
 
 To start the script use the "--start" flag.
-To use the rollback functionality use the "--rollback" flag
+To use the rollback functionality use the "--rollback" flag.
+The flag "--help" can be used as well to get isntructions explaining how to run the script.
+
+
