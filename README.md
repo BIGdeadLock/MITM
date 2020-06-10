@@ -1,5 +1,5 @@
 # MITM
-This script is a for making the local machine a "Man-In-The-Middle".
+This script is for making the local machine a "Man-In-The-Middle".
 Will work for window type OS environment
 
 The script uses a CLI menu to interact with the user to get information about the local network.
